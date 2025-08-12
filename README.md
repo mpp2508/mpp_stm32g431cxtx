@@ -1,1 +1,1 @@
-# mpp2580 STM32G431CxUx dev board
+# mpp2580 STM32G431CxTx dev board
